@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋, I'm DE GIOVANNI Tamy Fabius
+- 🔭 I’m currently working on something cool!
 <!--
 **tamyfabius/tamyfabius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
