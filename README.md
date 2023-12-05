@@ -1,5 +1,6 @@
 ### Hi 👋, I'm DE GIOVANNI Tamy Fabius
-- 🔭 I’m currently working on something cool!
+- 🔭 I’m currently working on Nx/Angular Project!
+- 📫 How to reach me tamyfabius@gmail.com
 <!--
 **tamyfabius/tamyfabius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
