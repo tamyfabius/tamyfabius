@@ -35,6 +35,10 @@
 <a href="https://rxweb.io" target="_blank" rel="noreferrer"> <img src='https://rxweb.wpenginepowered.com/wp-content/uploads/2020/02/Header-Logo.svg'  alt="rxweb" width="40" height="40"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src='https://img.emg-services.net/educations/education1884631/cypress_logo_social.png' alt="cypress" width="40" height="40"/> </a>
 </p>
+
+<hr clear="right"/>
+
+<h5 align="center">Thanks for visiting me 😉️</h5>
 <!--
 **tamyfabius/tamyfabius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
