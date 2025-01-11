@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DE GIOVANNI Tamy Fabius</h1>
-<h3 align="center">A passionate Frontend & Backend Web Developer From Paris / Madagascar</h3>
+<h3 align="center">A passionate Frontend & Backend Web Developer From Paris</h3>
 
 
-- 🔭 I’m currently working on Nx/Angular Project!
-- 💬 Ask me about **Nx, Angular, Rxweb, Jest, Cypress, Primeng, Javascript, Typescript**
+- 🔭 I’m currently working on Nx/Angular - NestJs / Rust Project!
+- 💬 Ask me about **Nx, Angular, Rxweb, Jest, Cypress, Primeng, Javascript, Typescript, NestJs, Rust**
 - 📫 How to reach me **tamyfabius@gmail.com**
 
 <hr clear="right"/>
